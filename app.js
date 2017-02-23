@@ -1,3 +1,4 @@
+var builder = require('botbuilder');
 var restify = require('restify');
 var builder = require('core');
 
